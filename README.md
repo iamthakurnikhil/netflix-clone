@@ -10,5 +10,5 @@ This project is made up from React JS and tailwind CSS with functionality of log
 
 ## Screenshots
 
-![App Screenshot](./src/assests/Screenshot%20(11).png)
+![App Screenshot](./public/screenshot(13).png)
 
